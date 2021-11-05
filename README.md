@@ -3,6 +3,7 @@ Changed title of webpage
 All HTML <div> elements were made semantic.
     Headers were changed from classes to elements.
     css elements were changed to match the adjusted elements.
+Added <aside> element
 Unneccessary <class> elements were removed.
 <id> tags were currectly labeled in .css file.
 <alt> were added to all the images
